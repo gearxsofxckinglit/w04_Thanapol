@@ -17,6 +17,7 @@ elif score >=70:
     comment = "Normal"
 elif score >=60:
     grade = "D"
+
     comment = "Pass"
 else:
     grade = "F"
